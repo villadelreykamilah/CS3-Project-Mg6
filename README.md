@@ -1,1 +1,1 @@
-# CS3-Mg-Project_6
+# CS3SY26-Mg-ProjectProposal_6
