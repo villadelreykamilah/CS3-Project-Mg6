@@ -3,6 +3,6 @@
 <h2>
 Name of the Application	:<br>
 Section			   	    : Magnesium<br>
-Group Members			: ILAGAN, Mayen Elise F., RAMIREZ, Sophia E., VILLADELREY, Kamilah R.<br>		
+Group Members			: Mayen Elise F. Ilagan, Sophia E. Ramirez, Kamilah R. Villadelrey<br>		
 Date (Proposal Date)	:November 5, 2026<br>
 </h2>
