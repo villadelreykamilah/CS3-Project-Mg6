@@ -1,7 +1,8 @@
 # CS3SY26-Mg-ProjectProposal_6
 
-## Project Title or 
-## Name of the Application	:
-## Section			   	:
-## Group Members			:		
-## Date (Proposal Date)		:
+<h2>
+Name of the Application	:<br>
+Section			   	    :<br>
+Group Members			:<br>		
+Date (Proposal Date)	:<br>
+</h2>
