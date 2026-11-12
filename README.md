@@ -12,9 +12,13 @@ This program is a calculator that can return a needed value based on other physi
 <br>
 The program has a main class, <b>Physics</b>, which has the attribute topic, which stores either kinematic or force, to specify what kind of calculation the program needs. Physics class also has 2 subclasses, <b>Kinematics</b>, and <b>Forces</b>. Kinematics has attributes initial_velocity, final_velocity, horizontal_velocity, acceleration, time, vertical_displacement, and horizontal_displacement, and has methods kinematic_equation_1(), all the way until kinematic_equation_5(), representing each kinematic equation. The Forces class has attributes y_net_force, x_net_force, mass, y_acceleration, x_acceleration, normal_force, gravity, and weight, and has methods calculate_weight(), calculate_normal_force(), calculate_x_net_force(), and calculate_y_net_force()
 
+### Class Diagram:
+
 <div style="text-align: center;">
     <img src="classdiagram.png" alt="Class Diagram">
 </div>
+
+## Goals:
 
 The long-term goal of this project is to develop a reliable and user-friendly calculator that simplifies solving physics problems involving kinematics and forces. It aims to help students, teachers, and anyone studying or working with physics perform calculations efficiently, minimize errors, and better understand relationships between physics quantities and concepts. Through the use of object-oriented programming, this application will provide an organized system for solving physics equations and determining unknown quantities based on the information given by the user.
 
