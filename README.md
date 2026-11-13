@@ -1,4 +1,4 @@
-# CS3SY26-Mg-ProjectProposal_6
+# CS3SY26-Magnesium-Mg13_Mg21_Mg29
 
 <h2>
 Name of the Application	: Physicalculator<br>
